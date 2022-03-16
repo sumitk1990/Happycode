@@ -1,0 +1,16 @@
+{
+  "registration": [
+    {
+      "VIN": "string",
+      "chasis": "string",
+      "date_time": "string",
+      "userID": "number",
+      "deviceId": "number",
+      "deviceLocation": "string",
+      "transaction_nbr": "string",
+      "transaction_name": "string",
+      "status": "string",
+      "approved": "string"
+    }
+  ]
+}
